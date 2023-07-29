@@ -21,4 +21,4 @@ jobs:
         fetch-depth: 1
     - name: Build the Docker image
       run: |
-        docker build -f Dockerfile -t 200327251464.dkr.ecr.ap-northeast-2.amazonaws.com/vroong/suhyuntest:1.0.0 .
+        docker build -f Dockerfile -t 750132647424.dkr.ecr.ap-northeast-2.amazonaws.com/csh-test:1.0.0 .
